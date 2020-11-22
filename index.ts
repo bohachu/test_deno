@@ -1,1 +1,1 @@
-console.log("this is deno")
+console.log("this is deno 中文系統測試")
